@@ -27,7 +27,7 @@ public class Ex1github {
             int res = nombre*mult;
             System.out.println(+nombre); 
             System.out.println("*"+mult); 
-            System.out.println("="+res);3
+            System.out.println("="+res);
         }
     }
 }
